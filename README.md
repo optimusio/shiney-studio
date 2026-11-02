@@ -2,7 +2,7 @@
 
 A native Android client for **ShinyVerse / Kid Mode**, the kid-friendly persona of the
 same self-hosted Ultra Studio generation server. Same account system and backend as
-[Ultra Studio](https://github.com/dqikfox/ULTRA-STUDIO), reskinned and simplified for
+[Ultra Studio](https://github.com/optimusio/ULTRA-STUDIO), reskinned and simplified for
 younger users, and shipped as its own separate app rather than a mode switch — it has
 its own icon, its own install, and no admin/queue surfaces a kid doesn't need.
 
